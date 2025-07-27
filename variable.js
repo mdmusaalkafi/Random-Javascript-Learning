@@ -12,8 +12,3 @@ var isTure = false;
 console.log(isTure);
 
 console.log(typeof isTrue);
-
-
-
-
-
